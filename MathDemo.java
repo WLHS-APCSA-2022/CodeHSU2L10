@@ -36,10 +36,12 @@ public class MathDemo{
         //area of a circle
         double radius = 4.0;
         //make area var
-        
+        double area1 = PI * radius * radius;
+        double area2 = PI * Math.pow(radius,2);
+    
         //print
-        System.out.println( );
-        
+        System.out.println("The area of a circle with radius " + radius + " is " + area1);
+        System.out.println("The area of a circle with radius " + radius + " is " + area2);
         
     }
 }
