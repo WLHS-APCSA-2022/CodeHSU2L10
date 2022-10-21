@@ -1,4 +1,7 @@
 #BlueJ package file
+dependency1.from=RectangleTester
+dependency1.to=Rectangle
+dependency1.type=UsesDependency
 editor.fx.0.height=1096
 editor.fx.0.width=1936
 editor.fx.0.x=1912
@@ -13,7 +16,7 @@ package.editor.x=0
 package.editor.y=0
 package.frame.height=1048
 package.frame.width=1936
-package.numDependencies=0
+package.numDependencies=1
 package.numTargets=4
 package.showExtends=true
 package.showUses=true
